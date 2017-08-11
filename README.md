@@ -14,6 +14,9 @@ After a specified limit of login attempts within a specified time, the IP addres
 * Option to email administrator when an IP has been blocked
 * Custom message to show to blocked users
 
+## Download
+Download the v1.1 from [Here](https://github.com/Amine-Smahi/BruteForceProtector/archive/master.zip)
+
 ## Installation 
 1. Install the plugin either via the WordPress.org plugin directory, or by uploading the files to your wp-content/plugin directory.
 2. Activate the plugin through the WordPress admin panel.
