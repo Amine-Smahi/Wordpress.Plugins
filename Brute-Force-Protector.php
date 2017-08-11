@@ -5,7 +5,7 @@ require_once 'includes/htaccess.php';
 
 /**
  * Plugin Name: BruteForceProtector
- * Plugin URI: 
+ * Plugin URI: https://github.com/Amine-Smahi/BruteForceProtector
  * Description: Protects your website against brute force Hacking attacks using the .htaccess
  * Text Domain: Brute-Force-Protector
  * Author: Amine-Smahi
