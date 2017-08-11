@@ -19,3 +19,9 @@ After a specified limit of login attempts within a specified time, the IP addres
 2. Activate the plugin through the WordPress admin panel.
 3. Customize the settings on the settings page.
 4. Done!
+ 
+## What is .htaccess?
+.htaccess is a configuration file for use on web servers running the Apache Web Server software. When a .htaccess file is placed in a directory which is in turn 'loaded via the Apache Web Server', then the .htaccess file is detected and executed by the Apache Web Server software. These .htaccess files can be used to alter the configuration of the Apache Web Server software to enable/disable additional functionality and features that the Apache Web Server software has to offer. These facilities include basic redirect functionality, for instance if a 404 file not found error occurs, or for more advanced functions such as content password protection or image hot link prevention.
+
+## Some Screenshots
+![Brute Force Protector htaccess wordpress plugin](https://user-images.githubusercontent.com/24621701/29215388-b2315532-7e5f-11e7-8fd5-837d3dde21cb.png)
